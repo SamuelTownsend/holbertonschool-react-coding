@@ -115,3 +115,4 @@ describe('Notifications', () => {
 		expect(notifsList.length).toBe(3);
 	});
 });
+
